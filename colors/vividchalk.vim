@@ -139,7 +139,7 @@ highlight SpellBad      ctermbg=DarkRed
 highlight SpellRare     ctermbg=DarkMagenta
 highlight SpellCap      ctermbg=DarkBlue
 highlight SpellLocal    ctermbg=DarkCyan
-highlight VertSplit     guifg=#808080 guibg=#080808 gui=bold
+highlight VertSplit     guifg=#808080 guibg=#333333 gui=bold
 
 call s:hibg("Folded"    ,"#110077","DarkBlue",17)
 call s:hifg("Folded"    ,"#aaddee","LightCyan",63)
