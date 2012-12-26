@@ -114,8 +114,8 @@ highlight WildMenu      guifg=#151515   guibg=#ffff00 gui=bold ctermfg=Black cte
 highlight Cursor        guifg=#151515 guibg=White ctermfg=Black ctermbg=White
 highlight CursorLine    guibg=#333333 guifg=NONE
 highlight CursorColumn  guibg=#333333 guifg=NONE
-highlight NonText       guifg=#404040 ctermfg=8
-highlight SpecialKey    guifg=#404040 ctermfg=8
+highlight NonText       guifg=#252525 ctermfg=8
+highlight SpecialKey    guifg=#252525 ctermfg=8
 highlight Directory     none
 high link Directory     Identifier
 highlight ErrorMsg      guibg=Red ctermbg=DarkRed guifg=NONE ctermfg=NONE
